@@ -6,3 +6,4 @@ Check out the video of my final product!
 
 https://github.com/mona1afshar/sumobot/assets/78571786/516c7913-bc51-4ffe-9515-0e4b6c7b9325
 
+Credits go to my team members Shenelle and Leo, snoopy team forever!!
