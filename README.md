@@ -1,4 +1,4 @@
-# Sumobot 
+# Sumobot 🤖
 I was challenged to make a sumobot that had to compete with other robots. The robot simply had to beat the opponent by pushing them out of the circle. It also had to be completely autonomous! 
 Check out the video of my final product!
 
