@@ -1,5 +1,5 @@
 # Sumobot 🤖
-I was challenged to make a sumobot that had to compete with other robots. The robot simply had to beat the opponent by pushing them out of the circle. It also had to be completely autonomous! 
+I was challenged to make a sumobot that had to compete with other robots by pushing opponent out of the circlular ring. It also had to be completely autonomous! 
 Check out the code for the robot, it was written in C++ onto an arduino uno board. I have also uploaded the 3D model for our robot design. The outer shell was 3D printed and then spray painted.
 
 Check out the video of my final product!
